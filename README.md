@@ -1,10 +1,13 @@
-# Ugaledipali
-
 <div align="center">
 
-# 👋 Hi, I'm Dipali Ugale
+### 💻 Computer Engineer | Full Stack Developer | Java Developer
 
-### 💻 Computer Engineering Student | Full Stack Developer | Java Enthusiast
+🚀 Passionate about building scalable web applications and solving real-world problems through technology.
+
+🌱 Exploring MERN Stack, Artificial Intelligence, Cloud Computing, and Modern Software Development.
+
+💡 Always learning, building, and growing.
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+Programmer;AI+%26+Cloud+Computing+Learner;Always+Learning+New+Technologies" />
 
@@ -14,15 +17,17 @@
 
 ## 👩‍💻 About Me
 
-🎓 Final Year Computer Engineering Student
+🎓 Bachelor of Engineering (Computer Engineering)
 
-💻 Passionate about Full Stack Web Development
+💻 Full Stack Web Developer
 
-☕ Java Programmer
+☕ Java Developer
 
-🚀 Exploring Artificial Intelligence, Cloud Computing & Modern Web Technologies
+🚀 MERN Stack Enthusiast
 
-🌱 Always learning and building new things
+🤖 Interested in Artificial Intelligence & Cloud Computing
+
+🌱 Continuous Learner and Technology Explorer
 
 ---
 
