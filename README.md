@@ -2,11 +2,8 @@
 
 ### 💻 Computer Engineer | Full Stack Developer | Java Developer
 
-🚀 Passionate about building scalable web applications and solving real-world problems through technology.
+🚀 Passionate about creating impactful software solutions and continuously learning new technologies.
 
-🌱 Exploring MERN Stack, Artificial Intelligence, Cloud Computing, and Modern Software Development.
-
-💡 Always learning, building, and growing.
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+Programmer;AI+%26+Cloud+Computing+Learner;Always+Learning+New+Technologies" />
